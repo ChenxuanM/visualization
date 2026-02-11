@@ -1,3 +1,6 @@
+Data Source:
+City of Toronto Open Data - Social and Affordable Housing
+https://open.toronto.ca/dataset/active-affordable-and-social-housing-units/
 ###  What software did you use to create your data visualization?
 I used Python for this data processing and visualization workflow.
 *** Libraries: pandas for data cleaning and manipulation, matplotlib for plotting the dual-axis chart.
